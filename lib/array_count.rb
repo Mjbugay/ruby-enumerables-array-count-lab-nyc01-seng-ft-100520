@@ -8,4 +8,3 @@ def count_empty_strings(array)
     array[index] == " "
 end
 
-count_empty_strings([ "", "Hello", 4, [], "", "" ])
